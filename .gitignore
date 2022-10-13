@@ -1,6 +1,8 @@
 # Personal addition
 /db.py
 /db2.py
+_deprecated
+_deprecated/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
